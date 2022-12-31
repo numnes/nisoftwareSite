@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+@font-face {
+  font-family: 'Hyperion';
+  src: url('assets/fonts/HyperionBold.otf') format('opentype');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Hyperion';
+  src: url('assets/fonts/HyperionLight.otf') format('opentype');
+  font-weight: light;
+}
+
+@font-face {
+  font-family: 'Hyperion';
+  src: url('assets/fonts/HyperionRegular.otf') format('opentype');
+  font-weight: normal;
+}
+
+:root {
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
