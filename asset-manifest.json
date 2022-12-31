@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.697f929e.css",
+    "main.js": "/static/js/main.675d2026.js",
+    "static/media/HyperionRegular.otf": "/static/media/HyperionRegular.bf99f21a60bbdd7c009c.otf",
+    "static/media/HyperionBold.otf": "/static/media/HyperionBold.49cb8059c04973cb0496.otf",
+    "static/media/LogoPNG.png": "/static/media/LogoPNG.16320a20836ee10eaa52.png",
+    "static/media/HyperionLight.otf": "/static/media/HyperionLight.dca5becf167720b740f0.otf",
+    "index.html": "/index.html",
+    "main.697f929e.css.map": "/static/css/main.697f929e.css.map",
+    "main.675d2026.js.map": "/static/js/main.675d2026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.697f929e.css",
+    "static/js/main.675d2026.js"
+  ]
+}
